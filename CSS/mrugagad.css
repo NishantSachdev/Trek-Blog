@@ -1,0 +1,93 @@
+.boxonem{
+    font-family: 'Hina Mincho', serif;
+    font-size: 118%;
+    margin:0px 50px;
+    margin-bottom:20px;
+    padding-top:20px;
+}
+
+.boxtwom{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 130px;
+}
+
+.boxthreem, .boxsixm, .boxninem{
+    font-family: 'Hina Mincho', serif;
+    font-size: 118%;
+    margin:0px 50px;
+    margin-bottom:20px;
+}
+
+.boxfourm{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 180px;
+}
+
+.boxfivem{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 100px;
+}
+
+#boxfivecontentm{
+    font-family: 'Hina Mincho', serif;
+    font-size: 118%;
+    width:500px;
+    margin-top:60px;
+}
+
+.boxsevenm{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 45px;
+}
+
+.boxsevenm .imgcls3{
+    border: solid 1px rgb(184, 184, 184);
+    border-radius: 5px;
+    margin-bottom:10px;
+    margin-right:0px;
+    height:250px;
+    width:300px;
+}
+
+.boxeightm{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 100px;
+}
+
+#boxeightcontentm{
+    font-family: 'Hina Mincho', serif;
+    font-size: 118%;
+    width:500px;
+    margin-top:40px;
+}
+
+.boxtenm{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 180px;
+}
+
+.boxtenm .imgcls3{
+    border: solid 1px rgb(184, 184, 184);
+    border-radius: 5px;
+    margin-bottom:10px;
+    margin-right:0px;
+    height:250px;
+    width:300px;
+}
+
+.footermrugagad{
+    margin:0px 50px;
+    text-align: center;
+    font-size: 130%;
+    color:rgb(21, 126, 126);
+    padding-bottom:10px;
+    display:flex;
+    justify-content: space-between;
+    margin-left:225px;
+}

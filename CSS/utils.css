@@ -1,0 +1,60 @@
+.max-width-1{
+    max-width:85vw;
+}
+
+.max-width-2{
+    max-width: 80vw;
+}
+
+.m-auto{
+    margin:auto;
+}
+
+.imgcls1{
+    border: solid 1px rgb(184, 184, 184);
+    border-radius:10px;
+    margin-top:5px;
+    height:250px;
+    width:350px;
+    margin-bottom:10px;
+}
+
+.imgcls2{
+    border: solid 1px rgb(184, 184, 184);
+    border-radius:10px;
+    margin-bottom:5px;
+    height:300px;
+    width:250px;
+}
+
+.imgcls3{
+    border: solid 1px rgb(184, 184, 184);
+    border-radius: 5px;
+    margin-bottom:10px;
+    margin-right:80px;
+    height:250px;
+    width:300px;
+}
+
+#titleALL{
+    font-family:'Lucida Sans';
+    font-size: 130%;
+    font-weight: bold;
+    color:rgb(21, 126, 126);
+    margin-bottom:15px;
+    text-decoration: underline;
+}
+
+.style{
+    color:black;
+    background-color:rgb(219, 253, 255);
+    border:1px solid black;
+    padding:1px 3px;
+    font-weight:bold;
+}
+
+.style:hover{
+    color:rgb(21, 126, 126);
+    cursor:pointer;
+    box-shadow: 1px 1px rgb(21, 126, 126);
+}
